@@ -1,7 +1,7 @@
 <h1>
   HiveBoxx-Moving Company
 </h1>
-This is my first bootstrap project which is a website for a moving company. Took inspiration from Dr. Angela's web dev course project.
+This is my first bootstrap project which is a frontend only website for a moving company. Took inspiration from Dr. Angela's web dev course project.
 <br>
 <hr>
 <h3>Languages used--> </h3>
